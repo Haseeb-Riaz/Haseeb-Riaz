@@ -58,70 +58,39 @@ I've also worked on Python-based **AI assistant and automation projects** involv
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages
+🧰 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin" />
-
-</div>
-
-### 🌐 Web & Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
-
-</div>
-
-### 📱 Mobile Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-
-</div>
-
-### 🤖 AI & Automation
-
-<div align="center">
-
-`Gemini` • `Claude` • `OpenAI` • `LLM APIs` • `AI Agents` • `LangChain`
-
-</div>
-
-### 🔐 Cybersecurity
-
-<div align="center">
+🔐 Cybersecurity
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
 
+💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,php,kotlin,java,javascript" />
+
+🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=android,kotlin,react,reactnative,expo" />
+
+🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+🤖 AI / Automation
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 </div>
-
-<div align="center">
-
-`Burp Suite` • `Wireshark` • `OWASP` • `Web Security` • `Penetration Testing`
-
-</div>
-
-### 🛠️ DevOps & Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,figma" />
-
-</div>
-
 ---
 
 ## 🚀 Selected Projects
