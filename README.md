@@ -1,43 +1,80 @@
+## Hi there 👋
+
+<!--
+**Haseeb-Riaz/Haseeb-Riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!-- TOP BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=250&section=header&text=Haseeb%20Ur%20Rehman&fontSize=70&fontColor=fff&animation=twinkling&desc=Full-Stack%20Web%20%26%20Mobile%20Engineer%20%7C%20Cybersecurity%20Auditor%20%7C%20Tech%20Creator&descSize=22&descAlignY=68" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=650&lines=Cybersecurity+Specialist+%26+Full-Stack+Developer;Penetration+Testing+%26+Secure+Web+Architectures;Kotlin+Android+%26+Modern+Web+Engineering" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Application+Developer;Exploring+Cybersecurity%2C+SOC+%26+Network+Auditing;Cross-Platform+Apps+with+React+Native+%26+Expo;Building+Secure%2C+High-Performance+Modern+Websites;Creator+%26+Founder+at+EthicLoopTech." alt="Typing SVG" />
-  </a>
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Enthusiast-2ea44f?style=for-the-badge&logo=github" alt="Open Source" /></a>
-</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@YOUR_CHANNEL_HANDLE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+Experienced **Cybersecurity Specialist** and **Full-Stack Developer** passionate about building secure, scalable software and identifying system vulnerabilities. I specialize in secure web applications, mobile engineering, and defensive/offensive security techniques. Through my platform, **EthicLoopTech**, I analyze tech trends, share cybersecurity insights, and showcase production-grade projects.
+
+- 🛡️ **Cybersecurity Focus:** Web Application Security, Penetration Testing, Vulnerability Assessments, OWASP Top 10 mitigation.
+- 💻 **Development Focus:** Scalable Web Portals, REST APIs, and native Android Applications (Kotlin/Java).
+- ⚙️ **Engineering Philosophy:** Security-by-design, clean code architecture, and high-performance UI/UX.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-1F5DA6?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br/>
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br/>
+  <!-- Mobile & Databases -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Engineering Identity
+### 🚀 Key Projects Highlights
 
-```javascript
-const haseebUrRehman = {
-    identity: {
-        title: "Full-Stack Developer & Cybersecurity Practitioner",
-        corePhilosophy: "Build seamless, performant digital systems with zero security compromises.",
-        environment: "Kali Linux / Ubuntu Server / VS Code"
-    },
-    techDomain: {
-        frontend: ["HTML5", "CSS3 / Sass", "Tailwind CSS", "Bootstrap", "JavaScript ES6+"],
-        mobile: ["React Native", "Expo SDK", "Cross-Platform Optimization"],
-        backendCloud: ["Node.js", "REST APIs", "Cloud Infrastructure", "JSON Web Tokens"],
-        securityTesting: ["Wireshark", "Network Traffic Monitoring", "Vulnerability Assessment", "System Hardening"]
-    },
-    currentVenture: "Producing technical architecture guides and security labs on EthicLoopTech"
-};
+- **PayShare (Android App):** A feature-rich Kotlin application engineered for dynamic group expense management, real-time balance calculations, and responsive interface design.
+- **EthicLoop CMS Portal:** Custom PHP & MySQL-backed Content Management System built for dynamic media updates, role-based admin access, and optimized security controls.
+- **QR & Barcode Utility:** High-performance Android scanning engine built with native Android SDK for real-time barcode decoding and dynamic QR generation.
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🌐 Connect & Media
+- **Platform:** EthicLoopTech
+- **Email:** Contact via GitHub Profile
