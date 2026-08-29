@@ -25,72 +25,49 @@ Currently learning, building, and experimenting with modern technologies.
 
 ---
 
-🧰 Tech Stack
-💻 Languages
+## 🧰 Tech Stack
 
+### Languages
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin" />
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,kotlin" />
 </div>
 
-🌐 Web & Backend
-
+### Web & Backend
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
-
 </div>
 
-📱 Mobile Development
-
+### Mobile
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
-
 </div>
 
-🗄️ Databases
-
+### Databases
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-
 </div>
 
-🤖 AI & Automation
-
+### AI & Automation
 <div align="center">
-
-Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
-
+<img src="https://skillicons.dev/icons?i=python" />
 </div>
 
-🔐 Cybersecurity
+`Gemini` `Claude` `OpenAI` `LLM APIs` `AI Agents` `LangChain`
 
+### Cybersecurity
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
-
 </div>
 
+`Burp Suite` `Wireshark` `OWASP` `Web Security` `Penetration Testing`
+
+### DevOps & Tools
 <div align="center">
-
-Burp Suite • Wireshark • OWASP • Web Security • Penetration Testing
-
-</div>
-
-🛠️ DevOps & Development Tools
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,figma" />
-
 </div>
-
 ---
 
-## 🌐 Connect With Me
+## <div align="center"> 🌐 Connect With Me </div>
 
 <div align="center">
 
