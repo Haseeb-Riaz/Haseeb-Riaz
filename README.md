@@ -25,59 +25,66 @@ Currently learning, building, and experimenting with modern technologies.
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages
+🧰 Tech Stack
+💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin" />
 
 </div>
 
-### 🌐 Web Development
+🌐 Web & Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
 
 </div>
 
-### 📱 Mobile Development
+📱 Mobile Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=android,kotlin,react,expo&perline=4" />
+<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
 
 </div>
 
-### 🔐 Cybersecurity
+🗄️ Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=3" />
-
-<br/><br/>
-
-<strong>Burp Suite</strong> • <strong>Wireshark</strong> • <strong>OWASP</strong> • <strong>Web Security</strong> • <strong>Penetration Testing</strong>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
 </div>
 
-### 🤖 AI & Automation
+🤖 AI & Automation
 
 <div align="center">
 
-<strong>Gemini</strong> • <strong>Claude</strong> • <strong>OpenAI</strong> • <strong>LLM APIs</strong> • <strong>AI Agents</strong> • <strong>LangChain</strong>
+Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
 
 </div>
 
----
-
-## 🔥 GitHub Activity
+🔐 Cybersecurity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Haseeb-Riaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+
+</div>
+
+<div align="center">
+
+Burp Suite • Wireshark • OWASP • Web Security • Penetration Testing
+
+</div>
+
+🛠️ DevOps & Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,figma" />
 
 </div>
 
@@ -85,7 +92,7 @@ Currently learning, building, and experimenting with modern technologies.
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Haseeb--Riaz-181717?style=for-the-badge\&logo=github)](https://github.com/Haseeb-Riaz)
 
