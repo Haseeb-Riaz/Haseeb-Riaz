@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm interested in:
@@ -90,8 +88,6 @@ Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
 [GitHub](https://github.com/Haseeb-Riaz) •
 [LinkedIn](https://www.linkedin.com/in/haseeb-ur-rehman-0b87602b1) •
 [Instagram](https://www.instagram.com/malikhaseebriaz1010)
-
----
 
 <div align="center">
 
