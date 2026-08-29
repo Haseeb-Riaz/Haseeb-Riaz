@@ -27,44 +27,33 @@ Currently learning, building, and experimenting with modern technologies.
 
 ## 🧰 Tech Stack
 
-### Languages
+### <div align="center"> 💻 Languages </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin&perline=5" />
 </div>
 
-### Web & Backend
+### <div align="center"> 🌐 Web Development </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi&perline=8" />
 </div>
 
-### Mobile
+### <div align="center"> 📱 Mobile Development </div> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
+<img src="https://skillicons.dev/icons?i=android,kotlin,react,expo&perline=4" />
 </div>
 
-### Databases
+### <div align="center"> 🤖 AI & Automation </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<strong>Gemini</strong> • <strong>Claude</strong> • <strong>OpenAI</strong> • <strong>LLM APIs</strong> • <strong>AI Agents</strong> • <strong>LangChain</strong>
 </div>
 
-### AI & Automation
+### <div align="center"> 🔐 Cybersecurity </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=3" />
+<br/><br/>
+<strong>Burp Suite</strong> • <strong>Wireshark</strong> • <strong>OWASP</strong> • <strong>Web Security</strong> • <strong>Penetration Testing</strong>
 </div>
 
-`Gemini` `Claude` `OpenAI` `LLM APIs` `AI Agents` `LangChain`
-
-### Cybersecurity
-<div align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
-</div>
-
-`Burp Suite` `Wireshark` `OWASP` `Web Security` `Penetration Testing`
-
-### DevOps & Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,figma" />
-</div>
 ---
 
 ## <div align="center"> 🌐 Connect With Me </div>
