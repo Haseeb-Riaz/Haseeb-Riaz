@@ -29,67 +29,47 @@ Currently learning, building, and experimenting with modern technologies.
 
 ### 💻 Languages
 
-<!-- Add your technologies here -->
+<div align="center">
 
-`Python` `JavaScript` `PHP` `Kotlin`
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin" />
+
+</div>
 
 ### 🌐 Web Development
 
-<!-- Add your technologies here -->
+<div align="center">
 
-`HTML` `CSS` `React` `Node.js`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
+
+</div>
 
 ### 📱 Mobile Development
 
-<!-- Add your technologies here -->
+<div align="center">
 
-`Android` `Kotlin`
+<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
+
+</div>
 
 ### 🔐 Cybersecurity
 
-<!-- Add your tools here -->
+<div align="center">
 
-`Kali Linux` `Wireshark` `Burp Suite`
+<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
 
-### 🤖 AI & Automation
-
-<!-- Add your tools here -->
-
-`Gemini` `Claude` `LLM APIs`
-
----
-
-## 🚀 Projects
-
-<!-- Add your best projects here -->
-
-### 🔹 Project Name
-
-**Description:** Add your project description here.
-
-**Tech:** `Technology` `Technology`
-
-🔗 Repository: Add Link Here
-
----
-
-### 🔹 Project Name
-
-**Description:** Add your project description here.
-
-**Tech:** `Technology` `Technology`
-
-🔗 Repository: Add Link Here
-
----
-
-## 📊 GitHub Stats
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+Burp Suite • Wireshark • OWASP • Web Security • Penetration Testing
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+### 🤖 AI & Automation
+
+<div align="center">
+
+Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
 
 </div>
 
@@ -107,9 +87,9 @@ Currently learning, building, and experimenting with modern technologies.
 
 <!-- Add your social links here -->
 
-[GitHub](YOUR_GITHUB_LINK) •
-[LinkedIn](YOUR_LINKEDIN_LINK) •
-[Instagram](YOUR_INSTAGRAM_LINK)
+[GitHub](https://github.com/Haseeb-Riaz) •
+[LinkedIn](https://www.linkedin.com/in/haseeb-ur-rehman-0b87602b1) •
+[Instagram](https://www.instagram.com/malikhaseebriaz1010)
 
 ---
 
