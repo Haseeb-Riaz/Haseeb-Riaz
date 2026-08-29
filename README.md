@@ -4,20 +4,22 @@
 
 ### Cybersecurity • AI & Vibe Engineering • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00F5D4&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+Security+Research;AI+%26+Vibe+Engineering;Full-Stack+Web+Development;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00F5D4&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+Security+Research;AI+%26+Vibe+Engineering;Full-Stack+Web+Development;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
 I'm interested in:
 
-* 🔐 Cybersecurity
-* 🤖 Artificial Intelligence & AI Agents
-* ⚡ Vibe Engineering
-* 🌐 Full-Stack Web Development
-* 📱 Mobile App Development
-* 🐍 Python & Automation
+* 🔐 **Cybersecurity**
+* 🤖 **Artificial Intelligence & AI Agents**
+* ⚡ **Vibe Engineering**
+* 🌐 **Full-Stack Web Development**
+* 📱 **Mobile App Development**
+* 🐍 **Python & Automation**
 
 Currently learning, building, and experimenting with modern technologies.
 
@@ -29,7 +31,7 @@ Currently learning, building, and experimenting with modern technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,kotlin&perline=5" />
 
 </div>
 
@@ -37,7 +39,7 @@ Currently learning, building, and experimenting with modern technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,fastapi&perline=8" />
 
 </div>
 
@@ -45,7 +47,7 @@ Currently learning, building, and experimenting with modern technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,expo" />
+<img src="https://skillicons.dev/icons?i=android,kotlin,react,expo&perline=4" />
 
 </div>
 
@@ -53,13 +55,11 @@ Currently learning, building, and experimenting with modern technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=3" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-Burp Suite • Wireshark • OWASP • Web Security • Penetration Testing
+<strong>Burp Suite</strong> • <strong>Wireshark</strong> • <strong>OWASP</strong> • <strong>Web Security</strong> • <strong>Penetration Testing</strong>
 
 </div>
 
@@ -67,15 +67,17 @@ Burp Suite • Wireshark • OWASP • Web Security • Penetration Testing
 
 <div align="center">
 
-Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
+<strong>Gemini</strong> • <strong>Claude</strong> • <strong>OpenAI</strong> • <strong>LLM APIs</strong> • <strong>AI Agents</strong> • <strong>LangChain</strong>
 
 </div>
 
-<br/>
+---
+
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Haseeb-Riaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -83,11 +85,17 @@ Gemini • Claude • OpenAI • LLM APIs • AI Agents • LangChain
 
 ## 🌐 Connect With Me
 
-<!-- Add your social links here -->
+<div align="left">
 
-[GitHub](https://github.com/Haseeb-Riaz) •
-[LinkedIn](https://www.linkedin.com/in/haseeb-ur-rehman-0b87602b1) •
-[Instagram](https://www.instagram.com/malikhaseebriaz1010)
+[![GitHub](https://img.shields.io/badge/GitHub-Haseeb--Riaz-181717?style=for-the-badge\&logo=github)](https://github.com/Haseeb-Riaz)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haseeb%20Ur%20Rehman-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/haseeb-ur-rehman-0b87602b1)
+
+[![Instagram](https://img.shields.io/badge/Instagram-malikhaseebriaz1010-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/malikhaseebriaz1010)
+
+</div>
+
+---
 
 <div align="center">
 
